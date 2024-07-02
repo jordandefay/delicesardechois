@@ -60,7 +60,7 @@ class AppColumn extends StatelessWidget {
                 iconColor: AppColors.iconColor1),
             IconAndTextWidget(
                 icon: Icons.location_on,
-                text: "Ardéche",
+                text: "",
                 iconColor: AppColors.mainColor),
             IconAndTextWidget(
                 icon: Icons.label_important,

@@ -1,0 +1,6 @@
+{
+  "editor.stickyTabStops": false,
+  "editor.useTabStops": true,
+  "workbench.editor.pinnedTabsOnSeparateRow": false,
+  "workbench.editor.wrapTabs": false
+}
